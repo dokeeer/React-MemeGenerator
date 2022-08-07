@@ -8,7 +8,7 @@ const MyForm = () => {
     }
 
     const [imgState, setImgState] = React.useState({
-        url: '/',
+        url: data.data.memes[getRandomInt(100)].url,
         topText: '',
         bottomText: '',
     })
