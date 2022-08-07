@@ -1,5 +1,5 @@
 # React-MemeGenerator
-Meme Generator using React
+Meme Generator using React.
 Adaptive. This project took me about 2 and a half hours
 
 
