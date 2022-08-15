@@ -1,4 +1,4 @@
-# React-MemeGenerator
+# React-MemeGenerator SPA
 Meme Generator using React.
 
 
